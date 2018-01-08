@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>newspaper-o</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">065a2d510f630300fdab4cace1050e00</sp_column>
+        <sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 06:59:37</sys_created_on>
+        <sys_id>a96c65510f630300fdab4cace1050ea6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="EHS Management" source="x_128607_ehs_manag">b0582d9d0f230300fdab4cace1050ea5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EHS Management">b0582d9d0f230300fdab4cace1050ea5</sys_scope>
+        <sys_update_name>sp_instance_a96c65510f630300fdab4cace1050ea6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 07:00:38</sys_updated_on>
+        <title>News</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "News",
+		"displayValue": "News"
+	},
+	"glyph": {
+		"value": "newspaper-o",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "52fa79f8e763320075c2a117c2f6a991",
+		"displayValue": "Banner"
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": 5,
+		"displayValue": "5"
+	},
+	"view_all_page": {
+		"value": "ecc828d3e733320075c2a117c2f6a91f",
+		"displayValue": "announcements"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=a96c65510f630300fdab4cace1050ea6"/>
+</record_update>

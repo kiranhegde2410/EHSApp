@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 07:10:24</sys_created_on>
+        <sys_id>efdee1950f630300fdab4cace1050ee7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_128607_ehs_manag_ehs_incident.x_128607_ehs_manag.ehs_incident_user</sys_name>
+        <sys_package display_value="EHS Management" source="x_128607_ehs_manag">b0582d9d0f230300fdab4cace1050ea5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EHS Management">b0582d9d0f230300fdab4cace1050ea5</sys_scope>
+        <sys_security_acl display_value="x_128607_ehs_manag_ehs_incident">a7dee1950f630300fdab4cace1050ee5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_efdee1950f630300fdab4cace1050ee7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 07:10:24</sys_updated_on>
+        <sys_user_role display_value="x_128607_ehs_manag.ehs_incident_user" name="x_128607_ehs_manag.ehs_incident_user">d3dee9550f630300fdab4cace1050e6e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
