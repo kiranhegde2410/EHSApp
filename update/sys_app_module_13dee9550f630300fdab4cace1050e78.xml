@@ -10,7 +10,7 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
         <mobile_title>EHS Incident s</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
@@ -26,17 +26,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>13dee9550f630300fdab4cace1050e78</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>EHS Incident s</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>EHS Incidents</sys_name>
         <sys_overrides/>
         <sys_package display_value="EHS Management" source="x_128607_ehs_manag">b0582d9d0f230300fdab4cace1050ea5</sys_package>
         <sys_policy/>
         <sys_scope display_value="EHS Management">b0582d9d0f230300fdab4cace1050ea5</sys_scope>
         <sys_update_name>sys_app_module_13dee9550f630300fdab4cace1050e78</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-08 07:10:23</sys_updated_on>
+        <sys_updated_on>2018-01-08 07:21:46</sys_updated_on>
         <timeline_page/>
-        <title>EHS Incident s</title>
+        <title>EHS Incidents</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
